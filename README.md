@@ -7,4 +7,6 @@
 <br>
 <img src="https://github.com/Eliassilva98/Projeto-Html-Css-We-Care/blob/main/We-Care-para-Readme.png?raw=true" alt="we-care-logo" />
 <br>
-"Veja o projeto ao vivo <a><a/>."
+"Veja o projeto ao vivo <a href="https://eliassilva98.github.io/Projeto-Html-Css-We-Care"/>Clicando Aqui<a/>.
+<br>
+Esse projeto aprendi no <a href="https://aulas.devclub.com.br/m/lessons/css-pt1-front-end-club"/>DevClub<a/>.
